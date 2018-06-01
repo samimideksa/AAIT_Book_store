@@ -1,0 +1,69 @@
+body {
+  padding-top: 50px;
+  
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: left;
+  width:30%;
+ }
+
+ .list-group-item{
+	 active
+ }
+ .panel-footer{
+	 width:100%;
+	 text-align:center;
+	 background-color:black;
+	 color:white;
+ }
+ .container{
+	 width:100%;
+ }
+ .list-group{
+	 width:
+ }
+ .col-xs-6 col-md-3{
+	float:right;
+	padding:10px;
+ }
+#panel{
+	width:45%;
+	float:right;
+	margin-top:-490px;
+	margin-right:315px;
+	
+	 
+ }
+#panel-default{
+	width:40%;
+	float:left;
+	margin-left:100px;
+	
+}
+#panel-heading{
+	background-color:black;
+	color:white;
+}
+#submit{
+	margin-left:300px;
+}
+#panel-footer{
+	margin-top:500px;
+}
+.section{
+		width:10%;
+	float:right;
+	margin-top:-530px;
+	margin-right:795px;
+}
+#panel2{
+	width:45%;
+	float:left;
+	/*height:60%;*/
+	margin-top:0px;
+	margin-right:315px;
+}
+#python{
+	width:60%;
+}
